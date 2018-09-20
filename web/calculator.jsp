@@ -49,11 +49,11 @@
             <td><%=rate%> %</td>
         </tr>
         <tr>
-            <td>Number of Years</td>
+            <td>Invest months</td>
             <td><%=month%></td>
         </tr>
         <tr>
-            <td>Future Value</td>
+            <td>Profit</td>
             <td><%=profit%> $</td>
 
         </tr>
