@@ -44,7 +44,7 @@
         </tr>
         <tr>
           <td>Invest months amount</td>
-          <td><input type="text" name="year" placeholder="Month..."></td>
+          <td><input type="text" name="month" placeholder="Month..."></td>
         </tr>
         <tr>
           <td></td>
